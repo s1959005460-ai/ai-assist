@@ -1,0 +1,13 @@
+# experiment_template.yaml
+seed: 1234
+epochs: 5
+num_clients: 3
+input_dim: 16
+num_classes: 3
+hidden: 16
+lr: 0.01
+lambda_topo: 0.1
+n_layers: 3
+resolution: 80
+method: triangle   # or gaussian
+noise_multiplier: null
