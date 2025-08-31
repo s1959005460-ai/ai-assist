@@ -1,0 +1,6 @@
+learning_rate: 0.01
+epochs: 5
+rounds: 5
+num_clients: 3
+hidden_channels: 16
+dataset: Cora

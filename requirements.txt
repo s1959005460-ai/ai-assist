@@ -1,0 +1,12 @@
+torch
+torchvision
+torch-geometric
+fastapi
+uvicorn
+numpy
+matplotlib
+pytest
+ripser
+persim
+opacus
+pyyaml
